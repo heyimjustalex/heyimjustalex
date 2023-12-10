@@ -1,7 +1,7 @@
 
 
 ## 🧬 Tech stack
-![My Skills](https://skillicons.dev/icons?i=jenkins,ansible,aws,py,bash,nginx,docker,kubernetes,cloudflare,fastapi,c#,react,nextjs,js,html,css,rabbitmq,mysql,sequelize,postgres,nodejs,git,githubo&perline=9)
+![My Skills](https://skillicons.dev/icons?i=jenkins,ansible,aws,py,bash,nginx,docker,kubernetes,cloudflare,fastapi,c#,react,nextjs,js,html,css,rabbitmq,mysql,sequelize,postgres,nodejs,git,githubo&perline=80)
 
 ## 🎭 Additional information
 - 🔭 I’m currently working on E-Learninig Platform.
