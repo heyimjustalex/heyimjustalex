@@ -1,6 +1,6 @@
 ## 👋 Hello World! 
 
-I'm Aleksander, a student at Aarhus University and Gdansk University of Technology 🎓 and a technical redactor at Innokrea ✍️
+### I'm Aleksander, a student at Aarhus University and Gdansk University of Technology 🎓 and a technical redactor at Innokrea ✍️
 
 ### 🔐 Security Enthusiast | 🚀 DevOps Advocate | 🌐 Networking Aficionado
 
