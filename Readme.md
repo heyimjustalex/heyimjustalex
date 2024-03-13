@@ -1,6 +1,6 @@
 ## 👋 Hello World! 
 
-### I'm Aleksander, a student at Aarhus University and Gdansk University of Technology 🎓, a technical redactor at Innokrea ✍️, a Cybersecurity and Devops Enthusiast 🔐
+### I'm Aleksander, a student at Università degli Studi di Milano and Gdansk University of Technology 🎓, a technical redactor at Innokrea ✍️, a Cybersecurity and Devops Enthusiast 🔐
 
 ## 🧬 Tech stack
 ![My Skills](https://skillicons.dev/icons?i=jenkins,ansible,aws,py,bash,nginx,docker,kubernetes,cloudflare,fastapi,cs,react,nextjs,js,rabbitmq,mysql,sequelize,postgres,git,github,gitlab&perline=7)
